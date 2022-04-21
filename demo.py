@@ -9,3 +9,9 @@ for i in range(y):
     print(i)
     
 # changes
+if k==0:
+    k=x+y
+    print(k)
+else:
+    print("k is not zero")
+#changes made by Shyam
