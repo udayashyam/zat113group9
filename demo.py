@@ -14,4 +14,3 @@ if k==0:
     print(k)
 else:
     print("k is not zero")
-#changes made by Shyam
